@@ -1,0 +1,8 @@
+var firstName = "Dilfa Mahmood"
+var lastName = "Suhaimi" 
+var age = 19;
+var isMarried = false;
+
+console.log("Nama Lengkap : " + firstName + " " +lastName)
+console.log("Umur  : " + age)
+console.log("Status Perkawinan : " + isMarried)
